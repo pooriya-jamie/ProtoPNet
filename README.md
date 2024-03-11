@@ -4,7 +4,7 @@ This repository contains code adapted from the ProtoPNet project (https://github
 
 ## Overview
 
-ProtoPNet is a neural network architecture designed for few-shot image classification tasks, which are often encountered in medical imaging scenarios where labeled data is scarce. By adapting ProtoPNet to medical datasets, particularly focusing on pneumonia classification using chest X-ray images, we aim to demonstrate its efficacy in a domain where labeled data is typically limited.
+ProtoPNet is a neural network architecture designed for few-shot image classification tasks, which are often encountered in medical imaging scenarios where labeled data is scarce. By adapting ProtoPNet to medical datasets, particularly focusing on pneumonia classification using chest X-ray images, I aim to demonstrate its efficacy in a domain where labeled data is typically limited.
 
 ## Dataset
 
@@ -33,7 +33,7 @@ Additionally, supplementary data might have been collected from external sources
 
 ## Acknowledgments
 
-We acknowledge the developers of ProtoPNet for providing the foundational codebase for this project. Additionally, we express our gratitude to the authors of the MedMNIST dataset for curating and releasing a valuable resource for the medical imaging community.
+I acknowledge the developers of ProtoPNet for providing the foundational codebase for this project. Additionally, I express our gratitude to the authors of the MedMNIST dataset for curating and releasing a valuable resource for the medical imaging community.
 
 ## License
 
